@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "��#\u0000 \u0000f\u0000o\u0000o\u0000d\u0000-\u0000o\u0000r\u0000d\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-eng-eng/food-order.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil-eng-eng/food-order/issues"
+  },
+  "homepage": "https://github.com/sahil-eng-eng/food-order#readme",
+  "keywords": []
 }
